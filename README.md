@@ -5,16 +5,26 @@ The visualization provides an overview on the Olympic Games held for the individ
 The system is integrated with Streamlit to convert it into a web app.
 
 Data Analysis is perfomed on four level:
+
 Overall Analysis
+
 Country Analysis
+
 Sports Analysis
+
 Athlete Analysis
+
 
 Modules Used:
 Pandas
+
 streamlit
+
 plotly
+
 seaborn
+
 matplotlib
+
 
 120 years of Olympic history Dataset: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
